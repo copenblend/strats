@@ -1,0 +1,1 @@
+# Wayfinders P5S - P8S Strats
