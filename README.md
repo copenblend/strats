@@ -1,2 +1,2 @@
-# strats
+# P5S
 FFXIV Strats
