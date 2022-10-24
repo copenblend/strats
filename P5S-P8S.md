@@ -7,9 +7,12 @@
 |<img src="icons/01_TANK/Job/Warrior.png" alt="drawing" width="20"/> Alex | <img src="icons/01_TANK/Job/Gunbreaker.png" alt="drawing" width="20"/> Tzu
 |<img src="icons/02_HEALER/Job/WhiteMage.png" alt="drawing" width="20"/> Xaria | <img src="icons/02_Healer/Job/Sage.png" alt="Sage" width="20"/> Sereane
 |<img src="icons/03_DPS/Job/Ninja.png" alt="drawing" width="20"/> Saz(Vel) | <img src="icons/03_DPS/Job/Samurai.png" alt="drawing" width="20"/> Faust
-|<img src="icons/03_DPS/Job/Machinist.png" alt="drawing" width="20"/> Infern | <img src="icons/03_DPS/Job/RedMage.png" alt="drawing" width="20"/> Rassi
+|<img src="icons/03_DPS/Job/Machinist.png" alt="drawing" width="20"/> Infern | <img src="icons/03_DPS/Job/RedMage.png" alt="drawing" width="20"/> Rassi  
+
+---  
 
 ### **P5S**
+--- 
 #### **Puddles/Towers**  
 Tanks N/CCW - N After Devour  
 Melee E/CW - S After Devour  
@@ -28,6 +31,20 @@ LP2 Against Wall
 #### **Ruby 6**  
 NW Square Prio/ NE otherwise  
 
+---  
 ### **P6S**
+---  
 
+#### **Agonies 1**  
 
+#### **Poly 2**  
+
+#### **Agonies 2**  
+
+#### **Poly 3**  
+
+#### **Dark Ashes**  
+
+#### **Cachexia 1**  
+
+#### **Poly 4**  
