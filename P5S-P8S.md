@@ -176,7 +176,11 @@ H2 -- R1
 <img src="resources/p8s/ld.png" alt="drawing" width="400"/> 
 
 #### **NA 2**  
-TBD  
+Spreads TBD  (I just don't feel like making a diagram)  
+NA on center line  
+Stack: Party Stack on N/S away from NA  
+Spread: NA stays middle, Group spreads (ill make a diagram for this at some point)  
+Fire/Ice - Same as NA 1
 
 #### **HC 2**  
 <img src="resources/p8s/hc2.png" alt="drawing" width="400"/>  
