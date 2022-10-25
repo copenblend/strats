@@ -155,3 +155,35 @@ T1 -- M1
 T2 -- M2  
 H1 -- R2 (Rdm uptime)  
 H2 -- R1  
+
+*Scripe Fire/Ice*  
+T2/M2 Flex  
+If T2 flex Tanks are North or South Fire
+If M2 flex Melee are North or South Fire
+Healers always West if no NA
+Range always East if no NA
+
+#### **HC 1**  
+<img src="resources/p8s/hc1.png" alt="drawing" width="400"/>  
+
+#### **Limitless Desolation**  
+<img src="resources/p8s/ld.png" alt="drawing" width="400"/> 
+
+#### **NA 2**  
+TBD  
+
+#### **HC 2**  
+<img src="resources/p8s/hc2.png" alt="drawing" width="400"/>  
+
+#### **Dominion 1/2**  
+
+***Spreads***  
+Supports West, DPS East  
+T/M North, H/R South  
+
+***Towers***
+From West to East Priority Groups
+Tank -> Healer -> Melee -> Ranged
+
+If both members of a priority group are in the same tower group LP1 -> LP2 West prio  
+i.e. T1/T2/M1/R2 hit first => T1 -> T2 -> M1 -> R2
