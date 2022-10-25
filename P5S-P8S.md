@@ -61,9 +61,6 @@ N to S:
 #### **Poly 4**  
 <img src="resources/p6s/domains.png" alt="drawing" width="400"/>  
 
-#### **Poly 6**  
-LP1 Far, LP2 Close
-
 ---  
 ### **P7S**
 ---  
