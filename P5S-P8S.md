@@ -138,18 +138,18 @@ LP1 NW/CCW, LP2 N/CW
 ---  
 
 #### **NA 1**
-Party stacks D
-Stack first, Party to 4 (edge of hitbox), NA to wall
+Party stacks D  
+Stack first, Party to 4 (edge of hitbox), NA to wall  
 Spread first, Clock spreads. 
 
-**Spread first clock spread Postions**  
+***Spread first clock spread Postions***  
 M1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;T1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M2  
 
 T2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R2
 
 R2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H2  
 
-**Spread second Postions**  
+***Spread second Postions***  
 East or West ***Not Mirrored***   
 T1 -- M1  
 T2 -- M2  
@@ -158,15 +158,21 @@ H2 -- R1
 
 *Scripe Fire/Ice*  
 T2/M2 Flex  
-If T2 flex Tanks are North or South Fire
-If M2 flex Melee are North or South Fire
-Healers always West if no NA
-Range always East if no NA
+If T2 flex Tanks are North or South Fire  
+If M2 flex Melee are North or South Fire  
+Healers always West if no NA  
+Range always East if no NA  
 
 #### **HC 1**  
 <img src="resources/p8s/hc1.png" alt="drawing" width="400"/>  
 
 #### **Limitless Desolation**  
+***Spread Positons***  
+T1 -- M1  
+T2 -- M2  
+H1 -- R2 (Rdm uptime)  
+H2 -- R1  
+
 <img src="resources/p8s/ld.png" alt="drawing" width="400"/> 
 
 #### **NA 2**  
@@ -181,8 +187,8 @@ TBD
 Supports West, DPS East  
 T/M North, H/R South  
 
-***Towers***
-From West to East Priority Groups
+***Towers***  
+From West to East Priority Groups  
 Tank -> Healer -> Melee -> Ranged
 
 If both members of a priority group are in the same tower group LP1 -> LP2 West prio  
