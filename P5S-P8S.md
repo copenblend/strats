@@ -114,3 +114,44 @@ Updog
 LP1 NW/CCW, LP2 N/CW
 T1/T2 swap when necessary
 M1/M2 swap when necessary
+
+#### **FourFold**
+LP1 West priority, LP2 East priority  
+Uptime if half arena, tanks back off if corners
+
+**Spread Postions**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;T1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;T2  
+R1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R2  
+
+#### **Centaur (Dog) 2**
+Healer Stacks: LP1 Wall, LP2 First Marker
+Partner Stack: T1/M1 Wall -> T2/M2 -> H1/R1 -> H2/R2
+
+#### **Snake 2**
+Spriggan
+LP1 NW/CCW, LP2 N/CW
+
+---  
+### **P8S Part 2**
+---  
+
+#### **NA 1**
+Party stacks D
+Stack first, Party to 4 (edge of hitbox), NA to wall
+Spread first, Clock spreads. 
+
+**Spread first clock spread Postions**  
+M1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;T1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M2  
+
+T2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R2
+
+R2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H2  
+
+**Spread second Postions**  
+East or West ***Not Mirrored***   
+T1 -- M1  
+T2 -- M2  
+H1 -- R2 (Rdm uptime)  
+H2 -- R1  
