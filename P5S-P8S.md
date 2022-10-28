@@ -102,7 +102,7 @@ R1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;T1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R2
 
 T2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H2
 
-M1&nbsp;&nbsp;&nbsp;&nbsp;H2&nbsp;&nbsp;&nbsp;&nbsp;M3  
+M1&nbsp;&nbsp;&nbsp;&nbsp;H2&nbsp;&nbsp;&nbsp;&nbsp;M2    
 
 #### **Centaur (Dog) 1**
 Updog
