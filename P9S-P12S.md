@@ -18,6 +18,9 @@
 #### **DualSpell** 
 DPS Rotate Clockwise
 
+#### **Shockwave** 
+Rotate Clockwise to Ice Wall
+
 #### **Levinstrike Orbs/Scrambled Succession** 
 
 JP Orbs
