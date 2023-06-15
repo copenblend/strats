@@ -45,4 +45,59 @@ Light Party 1 first Meteor
 DPS First Protean
 
 #### **Chimeric Succession** 
-TBD
+Tanks/Melee In   
+Healers/Ranged Out to bait defamation
+
+Odd defamation 1    
+Even Defamation 2
+
+Stack South
+
+---  
+
+### **P10S**
+--- 
+
+Zeid/Ori Swap Light Parties for this fight  
+
+| Light Party 1 | Light Party 2 |
+| ------------- | --------------|
+|<img src="icons/01_TANK/Job/Warrior.png" alt="drawing" width="20"/> Alex | <img src="icons/01_TANK/Job/Gunbreaker.png" alt="drawing" width="20"/> Tzu
+|<img src="icons/02_HEALER/Job/WhiteMage.png" alt="drawing" width="20"/> Xaria | <img src="icons/02_HEALER/Job/Scholar.png" alt="drawing" width="20"/> Mosh
+|<img src="icons/03_DPS/Job/Ninja.png" alt="drawing" width="20"/> Vel | <img src="icons/03_DPS/Job/Dragoon.png" alt="drawing" width="20"/> Faust
+| <img src="icons/03_DPS/Job/BlackMage.png" alt="drawing" width="20"/> Zeid | <img src="icons/03_DPS//Job/Dancer.png" alt="drawing" width="20"/> Ori  
+
+***Dividing Wings 1***  
+West tether breaks west group, east breaks east.  
+Positions  
+<img src="resources/p10s/dividing_wings.png" alt="div" width="600"/>  
+
+***Silk Spreads***  
+Positions  
+<img src="resources/p10s/silk_spreads.png" alt="div" width="600"/>  
+
+***Towers***  
+Positions  
+<img src="resources/p10s/towers.png" alt="div" width="600"/>  
+
+***Single Platform***  
+Positions  
+<img src="resources/p10s/west_spread.png" alt="div" width="600"/>  
+
+***Turret Towers***  
+Spread Positions for Bonds 2 are roughly the same as turret tower positions.  
+Positions  
+<img src="resources/p10s/turrets.png" alt="div" width="600"/>  
+
+***Dividing Wings 2***  
+Tethers go to connected platform
+Positions  
+<img src="resources/p10s/dividing_wings_2.png" alt="div" width="600"/> 
+
+***Bonds 3***  
+Spread Positions  
+<img src="resources/p10s/half_room.png" alt="div" width="600"/>  
+
+Stack Positions  
+<img src="resources/p10s/half_stack.png" alt="div" width="600"/>  
+
