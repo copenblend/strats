@@ -49,7 +49,7 @@ Tanks/Melee In
 Healers/Ranged Out to bait defamation
 
 Odd defamation 1    
-Even Defamation 2
+Even Defamation 4
 
 Stack South
 
